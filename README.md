@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll Cayman theme
 
 This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
@@ -67,3 +68,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International](h
 [2]: https://github.com/jasonlong
 [3]: https://pages.github.com/
 [4]: https://github.com/jasonlong/cayman-theme
+=======
+# Fei Huang Personal Page
+>>>>>>> 69c81f5a81c93562b9f65134d62177b43dfff896
